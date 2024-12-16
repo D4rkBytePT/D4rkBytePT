@@ -69,16 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkBytePT&layout=compact&theme=transparent&hide_border=true&title_color=0066FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<h2 align="center">🌟 Projetos em Destaque</h2>
-
-<div align="center">
-  <a href="https://github.com/D4rkBytePT/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4rkBytePT&repo=projeto1&theme=transparent&hide_border=true&title_color=0066FF&text_color=FFFFFF&icon_color=0066FF&bg_color=0D1117" alt="Projeto 1" />
-  </a>
-  <a href="https://github.com/D4rkBytePT/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=D4rkBytePT&repo=projeto2&theme=transparent&hide_border=true&title_color=0066FF&text_color=FFFFFF&icon_color=0066FF&bg_color=0D1117" alt="Projeto 2" />
-  </a>
-</div>
 
 <h2 align="center">👨‍💻 Contribuições</h2>
 
@@ -86,7 +76,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D4rkBytePT&theme=react-dark&hide_border=true&bg_color=0D1117&color=0066FF&line=0066FF&point=FFFFFF&area=true&area_color=0066FF" alt="Contribution Graph" width="100%" />
 </div>
 
-<h2 align="center">🎯 Objetivos para 2023</h2>
+<h2 align="center">🎯 Objetivos para 2025</h2>
 
 <div align="center">
   <table>
@@ -97,17 +87,17 @@
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=github" width="20" height="20" />
-        Contribuir para projetos open-source
+        Contribuir para projetos de amigos
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=md" width="20" height="20" />
-        Escrever artigos técnicos
+        Desenvolver sistemas proprios
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" />
-        Desenvolver um projeto fullstack
+        Aprofundar melhor as minhas skills
       </td>
     </tr>
   </table>
