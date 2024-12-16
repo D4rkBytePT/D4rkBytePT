@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=D4rkBytePT&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006cd1&height=200&section=header&text=D4rkBytePT&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Header"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Aprendiz+Eterno" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=006cd1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Aprendiz+Eterno" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,19 +19,19 @@
         <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
         <br>HTML/CSS
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-80%25-00FF00?style=flat-square&logo=percent&logoColor=white" alt="80%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-80%25-006cd1?style=flat-square&logo=percent&logoColor=white" alt="80%" />
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
         <br>JavaScript
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-00FF00?style=flat-square&logo=percent&logoColor=white" alt="60%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-006cd1?style=flat-square&logo=percent&logoColor=white" alt="60%" />
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-40%25-00FF00?style=flat-square&logo=percent&logoColor=white" alt="40%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-40%25-006cd1?style=flat-square&logo=percent&logoColor=white" alt="40%" />
       </td>
     </tr>
     <tr>
@@ -39,19 +39,19 @@
         <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
         <br>Node.js
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-00FF00?style=flat-square&logo=percent&logoColor=white" alt="60%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-006cd1?style=flat-square&logo=percent&logoColor=white" alt="60%" />
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <br>GitHub
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-00FF00?style=flat-square&logo=percent&logoColor=white" alt="60%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-006cd1?style=flat-square&logo=percent&logoColor=white" alt="60%" />
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
         <br>Linux
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-00FF00?style=flat-square&logo=percent&logoColor=white" alt="60%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-006cd1?style=flat-square&logo=percent&logoColor=white" alt="60%" />
       </td>
     </tr>
   </table>
@@ -113,6 +113,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006cd1&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
 
