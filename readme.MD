@@ -113,14 +113,11 @@
   </table>
 </div>
 
-<h2 align="center">📫 Como me encontrar</h2>
+<h2 align="center">👀 Dá uma olhada no meu site pessoal/portfólio</h2>
 
 <div align="center">
-  <a href="https://www.d4rkbytept.com">
-    <img src="https://img.shields.io/badge/-Portfolio-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://discord.com/users/d4rkbytept">
-    <img src="https://img.shields.io/badge/-Discord-0066FF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: d4rkbytept">
+  <a href="https://www.d4rkbytept.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Meu_Portfólio-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0052CC" alt="Meu Portfólio">
   </a>
 </div>
 
