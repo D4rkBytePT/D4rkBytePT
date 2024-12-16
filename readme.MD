@@ -16,19 +16,19 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML/CSS
         <br>
         <img src="https://progress-bar.dev/80?title=80%&width=100&color=00FF00" alt="80%">
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
         <br>
         <img src="https://progress-bar.dev/60?title=60%&width=100&color=00FF00" alt="60%">
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
         <br>
         <img src="https://progress-bar.dev/40?title=40%&width=100&color=00FF00" alt="40%">
@@ -36,19 +36,19 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
         <br>
         <img src="https://progress-bar.dev/60?title=60%&width=100&color=00FF00" alt="60%">
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         <br>GitHub
         <br>
         <img src="https://progress-bar.dev/60?title=60%&width=100&color=00FF00" alt="60%">
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
         <br>Linux
         <br>
         <img src="https://progress-bar.dev/60?title=60%&width=100&color=00FF00" alt="60%">
@@ -107,13 +107,7 @@
   <a href="https://www.d4rkbytept.com">
     <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://discord.com/users/d4rkbytept">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
-<div align="center">
-  <p>Discord: <code>d4rkbytept</code> (Clique para copiar)</p>
+  <img src="https://img.shields.io/badge/-d4rkbytept-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" onclick="navigator.clipboard.writeText('d4rkbytept')" style="cursor: pointer;" title="Clique para copiar">
 </div>
 
 <div align="center">
