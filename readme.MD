@@ -19,7 +19,7 @@
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
         <br>HTML/CSS
         <br>
-        <img src="https://custom-icon-badges.demolab.com/badge/-80%25-0066FF?style=flat-square&logo=percent&logoColor=white" alt="60%" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-60%25-0066FF?style=flat-square&logo=percent&logoColor=white" alt="60%" />
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
